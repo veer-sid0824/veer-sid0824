@@ -1,4 +1,4 @@
-# Hi there, I'm Veerasiddesh ! 👋
+# Hi there, I'm [Your Name]! 👋
 
 ## About Me
 
@@ -64,10 +64,6 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 ### 🔹 Retrieval-Focused Document Chat Pipeline
 > Multi-format document intelligence and secure local inference pipeline.
 
-<img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Document Chat Pipeline Demo"/>
-
-🔗 **[Live Demo](YOUR_LIVE_DEMO_URL_HERE)** | **[Source Code](YOUR_SOURCE_CODE_URL_HERE)**
-
 * **Tech Stack:** Hugging Face Transformers, Qwen 2.5 (LLM), OpenAI Whisper, PyTorch, Python
 * Built a multi-format document pipeline using `pypdf` and `python-docx` to extract raw text from PDFs, Word files, and plain text.
 * Deployed a local LLM (Qwen-2.5) on a T4 GPU using Hugging Face transformers and PyTorch for high-performance, local text inference.
@@ -78,10 +74,6 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 
 ### 🔹 NBA Sneakers Website
 > E-commerce style responsive showcase for premium basketball footwear.
-
-<img src="YOUR_IMAGE_URL_HERE" width="100%" alt="NBA Sneakers Website Demo"/>
-
-🔗 **[Live Demo]([YOUR_LIVE_DEMO_URL_HERE](https://nba-sneaker-showcase-2-0.vercel.app))** | **[Source Code](YOUR_SOURCE_CODE_URL_HERE)**
 
 * **Tech Stack:** React, JavaScript, TypeScript, Tailwind CSS
 * Developed a responsive multi-page website showcasing over 150 NBA sneakers.
