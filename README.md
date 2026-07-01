@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Veerasiddesh ! 👋
 
 ## About Me
 
@@ -79,7 +79,7 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 > E-commerce style responsive showcase for premium basketball footwear.
 
 <!-- Replace the URL below with a link to your website screenshot or GIF -->
-<img src="https://images.unsplash.com/photo-1608245365846-497fe33088e9?auto=format&fit=crop&w=800&q=80" width="100%" alt="NBA Sneakers Demo"/>
+<img src="[https://images.unsplash.com/photo-1608245365846-497fe33088e9?auto=format&fit=crop&w=800&q=80" width="100%" alt="NBA Sneakers Demo](https://nba-sneaker-showcase-2-0.vercel.app/)"/>
 
 * **Tech Stack:** React, JavaScript, TypeScript, Tailwind CSS
 * Developed a responsive multi-page website showcasing over 150 NBA sneakers.
