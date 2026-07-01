@@ -64,8 +64,9 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 ### 🔹 Retrieval-Focused Document Chat Pipeline
 > Multi-format document intelligence and secure local inference pipeline.
 
-<!-- Replace the URL below with a link to your project GIF or pipeline architecture diagram -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80" width="100%" alt="Pipeline Demo"/>
+<img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Document Chat Pipeline Demo"/>
+
+🔗 **[Live Demo](YOUR_LIVE_DEMO_URL_HERE)** | **[Source Code](YOUR_SOURCE_CODE_URL_HERE)**
 
 * **Tech Stack:** Hugging Face Transformers, Qwen 2.5 (LLM), OpenAI Whisper, PyTorch, Python
 * Built a multi-format document pipeline using `pypdf` and `python-docx` to extract raw text from PDFs, Word files, and plain text.
@@ -78,9 +79,9 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 ### 🔹 NBA Sneakers Website
 > E-commerce style responsive showcase for premium basketball footwear.
 
-<!-- Replace the URL below with a link to your website screenshot or GIF -->
-<img src="
-https://nba-sneaker-showcase-2-0.vercel.app"/>
+<img src="YOUR_IMAGE_URL_HERE" width="100%" alt="NBA Sneakers Website Demo"/>
+
+🔗 **[Live Demo]([YOUR_LIVE_DEMO_URL_HERE](https://nba-sneaker-showcase-2-0.vercel.app))** | **[Source Code](YOUR_SOURCE_CODE_URL_HERE)**
 
 * **Tech Stack:** React, JavaScript, TypeScript, Tailwind CSS
 * Developed a responsive multi-page website showcasing over 150 NBA sneakers.
@@ -94,7 +95,6 @@ https://nba-sneaker-showcase-2-0.vercel.app"/>
 
 ## 🤝 Connect with Me
 
-<!-- Replace these links with your actual social media URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
