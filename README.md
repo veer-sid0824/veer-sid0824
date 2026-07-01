@@ -1,4 +1,4 @@
-# Hi there, I'm Veerasiddesh T M 👋
+# Hi there, I'm [Your Name]! 👋
 
 ## About Me
 
@@ -61,34 +61,31 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 
 ## 🏗️ Featured Projects
 
-### 🔹 AI-Powered Data Analysis Platform
-> File-based data analysis system with automated insights.
+### 🔹 Retrieval-Focused Document Chat Pipeline
+> Multi-format document intelligence and secure local inference pipeline.
 
-![Project Demo](https://raw.githubusercontent.com/AnandChowdhary/sheets-to-gcal/main/assets/demo.gif) 
+<!-- Replace the URL below with a link to your project GIF or pipeline architecture diagram -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80" width="100%" alt="Pipeline Demo"/>
 
-* **Tech Stack:** Node.js, Python, Gemini API
-* Supports Excel/CSV ingestion with automated preprocessing.
-* Dynamic data visualization and insight generation.
-
----
-
-### 🔹 Personal Finance Tracker
-> Multi-currency finance management system.
-
-<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80" width="100%" alt="Finance Tracker Demo"/>
-
-* **Tech Stack:** Next.js, MongoDB
-* Features comprehensive budgeting, analytics, and automated reminders.
-* Embedded AI-powered financial insights and production-ready JWT authentication.
+* **Tech Stack:** Hugging Face Transformers, Qwen 2.5 (LLM), OpenAI Whisper, PyTorch, Python
+* Built a multi-format document pipeline using `pypdf` and `python-docx` to extract raw text from PDFs, Word files, and plain text.
+* Deployed a local LLM (Qwen-2.5) on a T4 GPU using Hugging Face transformers and PyTorch for high-performance, local text inference.
+* Eliminated AI hallucinations by engineering a context-enforced system prompt that limits model responses strictly to the uploaded document data.
+* Optimized GPU memory management using PyTorch and `bitsandbytes` to reduce hardware overhead in resource-constrained environments.
 
 ---
 
-### 🔹 Skill Compass (Career Recommendation System)
-> AI-based learning roadmap generator.
+### 🔹 NBA Sneakers Website
+> E-commerce style responsive showcase for premium basketball footwear.
 
-* **Tech Stack:** Express.js, Gemini API
-* Generates tailored career and learning roadmaps based on user profiles.
-* Scalable API architecture with active user tracking.
+<!-- Replace the URL below with a link to your website screenshot or GIF -->
+<img src="https://images.unsplash.com/photo-1608245365846-497fe33088e9?auto=format&fit=crop&w=800&q=80" width="100%" alt="NBA Sneakers Demo"/>
+
+* **Tech Stack:** React, JavaScript, TypeScript, Tailwind CSS
+* Developed a responsive multi-page website showcasing over 150 NBA sneakers.
+* Designed a modern UI featuring smooth animations, structured image galleries, and dynamic category filters.
+* Implemented reusable UI components and optimized page loading speeds.
+* Hosted the production build seamlessly using GitHub Pages with Git version control.
 
 🔍 *More projects are available in my [repositories](https://github.com?tab=repositories).*
 
@@ -96,6 +93,7 @@ I build scalable web applications and AI-powered systems with a strong focus on 
 
 ## 🤝 Connect with Me
 
+<!-- Replace these links with your actual social media URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
